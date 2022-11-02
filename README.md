@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Théo Catala</h1>
 <h3 align="center">Étudiant en deuxième année à Sophia Ynov Campus</h3>
 
-- 🌱 I’m currently learning **React native, PHP, Java**
+- 🌱 En ce moment je suis en train d'apprendre le **React native, PHP, Java**
 
-- 📫 How to reach me **tcatala32@gmail.com**
+- 📫 Vous pouvez me contacter via **tcatala32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
