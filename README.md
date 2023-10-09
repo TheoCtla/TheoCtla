@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Théo Catala</h1>
-<h3 align="center">Étudiant en deuxième année à Sophia Ynov Campus</h3>
+<h3 align="center">Étudiant en troisième année à Sophia Ynov Campus</h3>
 
-- 🌱 En ce moment je suis en train d'apprendre le **React native, PHP, Java**
+- 🌱 En ce moment je suis en train d'apprendre le **ReactJS, C# et JavaScript**
 
 - 📫 Vous pouvez me contacter via **tcatala32@gmail.com**
 
