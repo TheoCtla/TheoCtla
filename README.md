@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Théo Catala</h1>
+<h1 align="center">Salut 👋 ! Je suis Théo Catala</h1>
 <h3 align="center">Étudiant en troisième année à Sophia Ynov Campus</h3>
 
-- 🌱 I’m currently learning **React native, JS, C#**
+- 🌱 En ce moment je suis en train d'apprendre de nombreuses choses **React native, DevAPI, DevOPS**
 
-- 📫 How to reach me **tcatala32@gmail.com**
+- 📫 Vous pouvez me contacter via mon mail **tcatala32@gmail.com**
+
+- ⛹️‍♂️ En dehors de l'informatique j'ai des loisirs : **Le sports (basketball, football, tennis), la musique et les jeux-vidéo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
